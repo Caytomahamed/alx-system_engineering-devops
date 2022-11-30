@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -F --format=commas
+ls -amp | sort -d
