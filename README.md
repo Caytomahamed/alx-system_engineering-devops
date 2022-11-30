@@ -1,0 +1,8 @@
+# About Bash projects
+
+## Tasks 
+
+### 0. Where am I?
+Write a script that prints the absolute path name of the current working directory.
+### answer PWD
+
